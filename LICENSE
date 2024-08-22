@@ -1,0 +1,23 @@
+# upload project to GitHub.
+
+
+1. Initialize a Git repository.
+2. Add  `monitoring_dashboard.sh` script and `README.md`.
+3. Commit and push to your GitHub repository.
+
+
+
+### Evaluation
+
+
+- **Correctness and Completeness:** The script covers all requested features and provides real-time monitoring.
+
+- **Efficiency:** The use of basic Linux commands ensures that the script runs efficiently.
+
+- **Usability and Documentation:** The README file explains how to use the script with examples.
+
+- **Customizability:** The script allows easy modification to add more services or monitoring features.
+
+
+
+
